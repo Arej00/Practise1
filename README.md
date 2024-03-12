@@ -2,8 +2,9 @@
 
 # Practise1
 
-Hi!! My name is arya.
+Hello!! My name is Arya Raj Khadka.
 <br>
 This is my first readme file.
 <br>
 Thank you!
+
